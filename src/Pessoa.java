@@ -1,9 +1,9 @@
-public class Pessoa{
+public class Pessoa {
 
     String nome;
+    String rg;
     String cpf;
-    long rg;
-    long tel;
-    long telFam;
-    String endereço;
+    String tel;
+    String telFam;
+
 }
